@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Top Manga
+* One Piece
+* Hunter x Hunter
+* Full Metal Alchemist
+* Tower of God
